@@ -31,7 +31,7 @@ global.sc = 'https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW'
 global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
 global.packname = 'Ř　Å　H　Ü　 L　ツ'
 global.author = 'Ř　Å　H　Ü　 L　ツ'
-global.sessionName = 'VVg2aFdQS3M='
+global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
 global.mess = {
